@@ -1,6 +1,6 @@
 # Dintree
 
-** Synthesizer Modules and Audio Circuits **
+**Synthesizer Modules and Audio Circuits**
 
 **2020-07-14: You can now try Dintree modules within [VCV Rack](https://library.vcvrack.com/?query=dintree&brand=&tag=&license=)! I have created virtual versions of most modules.**
 

@@ -1,6 +1,6 @@
 # D101 Dual Envelope
 
-** Dual ADSR, AR and LFO Generator - 12HP Eurorack format **
+**Dual ADSR, AR and LFO Generator - 12HP Eurorack format**
 
 ![D101 Dual Envelope](D101-front-600.jpg)
 
@@ -18,7 +18,7 @@ Specifications:
 
 ## Circuit Design Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Ay7NW8Tg92U/0.jpg)](http://www.youtube.com/watch?v=Ay7NW8Tg92U "Synth Tech - Dual Envelope Generator")
-** Click to play **
+**Click to play**
 
 ## Technical Notes
 

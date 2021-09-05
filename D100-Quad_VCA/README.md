@@ -1,6 +1,6 @@
 # D100 Quad VCA
 
-** Quad Voltage Controlled Amplifier - 12HP Eurorack format **
+**Quad Voltage Controlled Amplifier - 12HP Eurorack format**
 
 ![D100 Quad VCA](D100-front-600.jpg)
 
@@ -8,7 +8,7 @@ The D100 is a small quad VCA based around the SSM2164 VCA chip from Analog Devic
 
 ## Circuit Design Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/dqyWzp-3qls/0.jpg)](http://www.youtube.com/watch?v=dqyWzp-3qls "Synth Tech - Quad VCA Design")
-** Click to play **
+**Click to play**
 
 ## Technical Notes
 
