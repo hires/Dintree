@@ -20,6 +20,3 @@ The D107 is a very simple dual slew rate limiter. It can be used for portamento 
 ## Technical Notes
 
 The idea behind the D107 is very simple, and probably many circuits like it exist. There are two identical chanels. The input signal is buffered so that the input signal driving impedance has no effect on the performance of the slew limiting part. A high value 250K linear pot controls the charging and discharging of a pair of 10uF capacitors joined back to back. (non-polarized combination with total value of around 5uF) The voltage on the capacitor is buffered with an opamp stage. Because the opamp is a JFET input type, it doesn't drain any appreciable charge off the capacitor. The second opamp stage drives the output.
-
-
-https://youtu.be/6EZQ2UXpn6g
