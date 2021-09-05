@@ -8,7 +8,7 @@ The D101 is a dual envelope generatore with some interesting features. It can ac
 
 The circuit outputs voltages from 0-5V. Gates more than about 1V are sensed as gate on. The circuit generates both envelope channels using a PIC16F690 microcontroller. The outputs are generated with an LTC2622 dual 12-bit DAC. The outputs of the DAC are buffered before being output and the envelope LEDs are driven directly from the output envelope signals. The microcontroller updates the DAC at about 1kHz and the signal is smoothed in the output buffer to remove any steps. Except for very fast settings a nearly perfect linear ramp is output. The pot scaling goes from 1ms to 10s and uses a lookup table to make the correct time scaling in each range of pot rotation.
 
-Specifications:
+**Specifications:**
 
 - Dual envelope generator with ADSR, AR and LFO modes
 - Single PIC16F690 microcontroller and dual 12-bit DAC perform all functions
@@ -18,6 +18,7 @@ Specifications:
 
 ## Circuit Design Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Ay7NW8Tg92U/0.jpg)](http://www.youtube.com/watch?v=Ay7NW8Tg92U "Synth Tech - Dual Envelope Generator")
+
 **Click to play**
 
 ## Technical Notes

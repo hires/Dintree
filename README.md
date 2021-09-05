@@ -4,9 +4,9 @@
 
 **2020-07-14: You can now try Dintree modules within [VCV Rack](https://library.vcvrack.com/?query=dintree&brand=&tag=&license=)! I have created virtual versions of most modules.**
 
-Here are some DIY synth projects, complete with schematics and code where applicable. All the projects here are for learning and hobby use and are strictly for education and NON-COMMERCIAL USE ONLY.
+Here are some DIY synth projects, complete with schematics and code where applicable. All the projects here are for learning and hobby use and are strictly for education and **NON-COMMERCIAL USE ONLY**.
 
-## About Me / Dintree.com
+## About Me
 
 My name is Andrew Kilpatrick and I'm more well-known for my full-scale synthesizers and sequencers sold under the [Kilpatrick Audio](https://www.kilpatrickaudio.com) brand. The ideas presented here are intended as a free resource to help those starting out. I definitely benefitted from a lot of resources while learning and feel now like it's my turn to pass it on my knowledge.
 

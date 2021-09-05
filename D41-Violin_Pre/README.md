@@ -10,4 +10,5 @@ Some changes you could try would be adjusting the value of C1 and R2,3. This wil
 
 ## Circuit Design Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/g0rNiV_gOls/0.jpg)](http://www.youtube.com/watch?v=g0rNiV_gOls "Simple Violin Preamp")
+
 **Click to play**
