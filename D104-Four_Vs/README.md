@@ -16,6 +16,6 @@ The D104 is a very simple voltage source. Sometimes it's nice to have a CV avail
 ## Circuit Design Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/hwzX3BVx9ss/0.jpg)](http://www.youtube.com/watch?v=hwzX3BVx9ss "Synth Tech - Four Vs")
 
-**Click to play**
+**Click thumbnail to play**
 
 What could be simpler? Four buffered pots set to generate voltages from 0-5V to use for whatever you want. A low-power +5V regulator makes 5V, there are four pots which make 0-5V, and four opamp channels buffer these voltages. Simple, useful.

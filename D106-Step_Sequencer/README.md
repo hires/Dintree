@@ -19,7 +19,7 @@ To control the sequencer a clock can be input. It accepts pulses and triggers wh
 ## Circuit Design Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/0Sb91xT7LFY/0.jpg)](http://www.youtube.com/watch?v=0Sb91xT7LFY "Synth Tech - Step Sequencer")
 
-**Click to play**
+**Click thumbnail to play**
 
 ## Technical Notes
 

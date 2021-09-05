@@ -17,7 +17,7 @@ The D102 is a four input mixer designed to drive external audio equipment. Each 
 ## Circuit Design Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/L_EhHT_S_Wc/0.jpg)](http://www.youtube.com/watch?v=L_EhHT_S_Wc "Synth Tech - Output Mixer")
 
-**Click to play**
+**Click thumbnail to play**
 
 ## Technical Notes
 

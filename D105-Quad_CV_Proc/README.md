@@ -18,7 +18,7 @@ The D105 offers the ability to mix and scale control voltages (and audio signals
 ## Circuit Design Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/1wX30b7s5AM/0.jpg)](http://www.youtube.com/watch?v=1wX30b7s5AM "Synth Tech - Quad CV Processor")
 
-**Click to play**
+**Click thumbnail to play**
 
 ## Technical Notes
 

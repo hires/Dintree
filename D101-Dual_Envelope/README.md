@@ -19,7 +19,7 @@ The circuit outputs voltages from 0-5V. Gates more than about 1V are sensed as g
 ## Circuit Design Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Ay7NW8Tg92U/0.jpg)](http://www.youtube.com/watch?v=Ay7NW8Tg92U "Synth Tech - Dual Envelope Generator")
 
-**Click to play**
+**Click thumbnail to play**
 
 ## Technical Notes
 
