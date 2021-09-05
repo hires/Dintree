@@ -1,5 +1,6 @@
 # Dintree
-Synthesizer Modules and Audio Circuits
+
+** Synthesizer Modules and Audio Circuits **
 
 **2020-07-14: You can now try Dintree modules within [VCV Rack](https://library.vcvrack.com/?query=dintree&brand=&tag=&license=)! I have created virtual versions of most modules.**
 
@@ -18,7 +19,7 @@ I'm pretty busy but you can contact me at: dintree-mail@andrewkilpatrick.org. Ke
 
 - **I can't design stuff for you** - My schedule is full with other work so if you want to make something, just learn what you need and make it
 - **I don't offer kits** - This is tedious and time consuming and I make my living by the generous support of my customers who buy my finished products which are designed and built to a very high standard.
-- **I generally don't offer PCBs for anything** - The idea of this site is to give you a head start. There are plenty of DIY synth kits available online. The goal here is to hopefully explain some of the more technical details so you can learn to design your own stuff. 
+- **I generally don't offer PCBs for anything** - The idea of this site is to give you a head start. There are plenty of DIY synth kits available online. The goal here is to hopefully explain some of the more technical details so you can learn to design your own stuff.
 
 ## General Technical Tips
 
@@ -30,7 +31,7 @@ A few notes that apply to most modular synth circuits, which you will see throug
 - Outputs should always be terminated when the module is unpowered. Semiconductors are usually floating when off, so if you unpower your circuit while it is driving an external device like a mixer, you will now have an unterminated cable picking up all kinds of noise. I use 100K resistors to ground on outputs. Put them before the output series resistor to avoid unnecessary voltage drops. Trick: If you follow the output back around the output opamp and find that there is a complete resistive path to ground somewhere you can avoid an extra resistor! This happens in non-inverting configurations quite a lot, so check it before adding more parts.
 - In amplifiers with high gain settings, or amplifying signals from the outside world you should always put a small capacitor across the feedback path. For feedback resistors of less than 50K or so, I usually choose 100pF. For 100K or so, use 22pF. These values will reduce the gain at very high frequencies thus reducing the chance of oscillation, or amplifying RF noise, while also not overly attenuating actually high frequency audio signals. Check it on your scope to be sure. It's good practice to do on all amplifiers, but sometimes it's not really necessary.
 - Always place 0.1uF ceramic capacitors directly from each power supply pin to ground on every opamp and other IC. These improve stability and bypasses high frequency noise to ground. Don't just bridge both supply pins with a single cap... it doesn't work and can actually cause more problems. Unless your power and ground wiring is neat and there are 0.1uF capacitors all over your circuit at every IC, don't even think about trying to test your circuit.
-- Always put some bulk filtering on every module. For small analog circuits 10uF on each supply is okay after the input diode. For higher power stuff 100uF or more might be required. But don't go crazy because large capacitors can store quite a lot of energy and become a liability, drawing excessive current at power on, and sometimes causing certain types of switching power supplies to freak out. 
+- Always put some bulk filtering on every module. For small analog circuits 10uF on each supply is okay after the input diode. For higher power stuff 100uF or more might be required. But don't go crazy because large capacitors can store quite a lot of energy and become a liability, drawing excessive current at power on, and sometimes causing certain types of switching power supplies to freak out.
 
 ## Important Notes about Commercial Use / License
 If you want to make your own project, that's cool. Even if you want to sell it. But please keep the following in mind:
@@ -39,7 +40,4 @@ If you want to make your own project, that's cool. Even if you want to sell it. 
 - Make something derivative - Make your own design based on what you learn here, or adapt my circuit for your own use. This is cool. Send me a link to a picture or video when you're done!
 - Change the name - Call it something that you come up with. I found someone selling one of these designs with the exact same model number and name. I felt kind of upset about it. So just make your own product name, logo, style.
 - Share what you make - Make a video or website showing what you made and maybe even offer your designs as inspiration for others! Have a hackathon or make a kit for sale to others starting out! I wish I had time to do some of these things.
-- Review the design - Circuits built for your own use are often much simpler than what is necessary for a professional / commercial design. This includes topics such as ESD protection, EMC, design for manufacture (DFM) and so on. It's usually quite a lot of effort to go from a weekend project to a manufacturable product that will survive the real world. Do your own research and consult with industry professionals to learn what are acceptable standards of design and testing for the type of product you are making. 
-
-
-
+- Review the design - Circuits built for your own use are often much simpler than what is necessary for a professional / commercial design. This includes topics such as ESD protection, EMC, design for manufacture (DFM) and so on. It's usually quite a lot of effort to go from a weekend project to a manufacturable product that will survive the real world. Do your own research and consult with industry professionals to learn what are acceptable standards of design and testing for the type of product you are making.
